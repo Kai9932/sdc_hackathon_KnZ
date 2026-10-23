@@ -15,6 +15,8 @@ is an AI-powered career intelligence and psychological career counselling platfo
 | **Number of Members** | 2 |
 
 
+
+## Links
 | **Resource** | **Link** |
 |---|---|
 | GitHub Repository | [https://github.com/Kai9932/KnZ](https://github.com/Kai9932/KnZ) |
