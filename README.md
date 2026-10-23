@@ -134,3 +134,13 @@ Our team plans to continuously improve the KnZ AI Career Guidance System by intr
 - **Achievement and Reward System:** Introduce a gamification system where users can earn achievement badges and points by completing activities such as career assessments, resume analysis, and career development tasks.
 
 - **Points-to-Token Redemption:** Integrate the achievement system with our pricing model, allowing users to redeem accumulated points for tokens. For example, users who earn **100 points** can exchange them for tokens to access selected AI-powered features
+
+
+
+
+## Team
+
+| **Name** | **Role** | **GitHub** |
+|----------|----------|------------|
+| Chong Wen Kai | Team Lead / Backend & Frontend Developer | [@Kai9932](https://github.com/Kai9932) |
+| Chong Wen Zhi | RunPod & Replit Deployment / Cloud Infrastructure | — |
