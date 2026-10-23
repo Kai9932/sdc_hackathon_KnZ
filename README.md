@@ -59,3 +59,17 @@ Many students, graduates, and career changers struggle to identify careers that 
 | AI / Machine Learning | DistilBERT-based resume classification (checkpoint/version to be confirmed), RIASEC scoring and career-matching logic, DeepSeek API for AI-generated explanations |
 | AI Compute / Model Hosting | RunPod GPU endpoint, if enabled and connected to the application |
 | Development / Hosting | Replit; source-code version control through GitHub |
+
+
+
+## How We Use Replit
+
+Our team used **Replit** to develop, manage, and deploy our KnZ AI Career Guidance System.
+
+- **Development:** We connected our GitHub repository to Replit and continued modifying, improving, and debugging the application's code directly in Replit.
+- **Replit Agent:** We used Replit Agent to assist with development tasks, including adding CSV files and making necessary code modifications.
+- **Secrets Management:** Sensitive information, such as API keys and credentials, is securely stored in **Replit Secrets** instead of being exposed in the source code.
+- **Hosting and Deployment:** We used Replit's **Publish** feature to deploy our application, making it publicly accessible without requiring a local computer to run.
+
+
+
