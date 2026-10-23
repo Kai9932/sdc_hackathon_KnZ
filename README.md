@@ -144,3 +144,18 @@ Our team plans to continuously improve the KnZ AI Career Guidance System by intr
 |----------|----------|------------|
 | Chong Wen Kai | Team Lead / Backend & Frontend Developer | [@Kai9932](https://github.com/Kai9932) |
 | Chong Wen Zhi | RunPod & Replit Deployment / Cloud Infrastructure | — |
+
+
+
+## Submission Checklist
+
+- [x] Team name, domain Domain 1 and SDG track filled in
+- [x] Slide deck link added
+- [x] Demo video link added
+- [x] Replit used, with proof of use in `submission/`
+- [x] RunPod used, with proof of use in `submission/`
+- [x] Preliminary submission completed (`SDC2026_TeamName_Preliminary.pdf`)
+- [x] Technology declaration completed (`SDC2026_TeamName_TechDeclaration.pdf`)
+- [x] Submission files renamed with your team name (replace `TeamName`)
+- [x] "How to Run" steps verified
+- [x] No API keys or secrets committed to the repository
