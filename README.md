@@ -89,3 +89,38 @@ Our team used **RunPod** to store, deploy, and run our AI models for the KnZ AI 
 
 This setup allows our application to process AI model predictions through RunPod while Replit handles the website, user interactions, and backend functionality.
 
+
+
+## Challenges & Learnings
+
+### Challenges We Faced
+
+One of the biggest challenges our team faced was learning how to use **RunPod** and **Replit**, as both platforms were completely new to us. We had limited experience with cloud deployment, GPU environments, and integrating AI models with web applications.
+
+- **RunPod Setup and Deployment:** Initially, we struggled to understand how RunPod worked, especially when setting up Jupyter Notebook and VS Code, uploading model files, managing the GPU Pod environment, and transitioning from Pods to Serverless Endpoints.
+
+- **Replit Development:** Since it was our first time using Replit, we faced difficulties navigating the platform, creating new files, understanding the file tree structure, uploading project files, and connecting our existing GitHub repository to Replit.
+
+- **Learning New Tools:** Understanding the different features, configurations, and deployment processes of both platforms required considerable time, experimentation, and troubleshooting.
+
+### How We Overcame These Challenges
+
+To overcome these difficulties, our team took the initiative to learn through different resources and practical experimentation.
+
+- **YouTube Tutorials:** We watched YouTube tutorials to understand how to set up RunPod GPU Pods, upload model files, configure Serverless Endpoints, and navigate the Replit environment.
+
+- **AI Assistance:** We used AI tools to guide us step by step through unfamiliar processes, troubleshoot errors, and understand how to configure and deploy our application.
+
+- **Trial and Error:** We continuously tested different approaches, identified errors, and made adjustments until we successfully deployed our AI models and web application.
+
+### What We Learned
+
+Through this experience, our team gained valuable technical knowledge and practical skills.
+
+- Learned how to use **RunPod GPU Pods and Serverless Endpoints** to host and run AI models.
+- Gained experience using **Replit** for web development, GitHub integration, file management, and application deployment.
+- Understood how to connect a **Replit web application to a RunPod Serverless Endpoint** through API integration.
+- Improved our **problem-solving, debugging, and independent learning skills** by exploring tutorials, using AI assistance, and experimenting with unfamiliar technologies.
+- Learned the importance of **teamwork, patience, and adaptability** when working with new development platforms.
+
+Overall, although we faced many challenges as first-time users of RunPod and Replit, the experience helped us develop a better understanding of cloud-based AI deployment and strengthened our confidence in learning and applying new technologies.
