@@ -73,3 +73,19 @@ Our team used **Replit** to develop, manage, and deploy our KnZ AI Career Guidan
 
 
 
+## How We Use RunPod
+
+Our team used **RunPod** to store, deploy, and run our AI models for the KnZ AI Career Guidance System.
+
+- **Model Storage:** We used RunPod to store and manage our trained AI models, including our DistilBERT-based resume classification model.
+- **Development and Testing:** We initially experimented with **Jupyter Notebook** and **Visual Studio Code (VS Code)** to configure the environment, manage model files, and troubleshoot deployment issues.
+- **GPU Pod:** We then used a **RunPod GPU Pod** to set up the required dependencies, test our models, and run AI inference in a GPU-powered environment.
+- **Serverless Deployment:** After testing our models on a GPU Pod, we transitioned to **RunPod Serverless** to enable on-demand AI inference without keeping a GPU Pod running continuously.
+- **Integration with Replit:** Our Replit application communicates with the RunPod Serverless Endpoint through API requests using `RUNPOD_API_KEY` and `RUNPOD_ENDPOINT_ID`. These credentials are securely stored in Replit Secrets.
+
+### RunPod Workflow
+
+**Jupyter Notebook & VS Code → RunPod GPU Pod → RunPod Serverless Endpoint → Replit Web Application**
+
+This setup allows our application to process AI model predictions through RunPod while Replit handles the website, user interactions, and backend functionality.
+
