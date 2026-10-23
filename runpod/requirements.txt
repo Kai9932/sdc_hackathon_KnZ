@@ -1,0 +1,9 @@
+
+runpod
+fastapi
+pydantic
+torch
+transformers
+safetensors
+joblib
+scikit-learn==1.8.0
