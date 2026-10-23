@@ -124,3 +124,13 @@ Through this experience, our team gained valuable technical knowledge and practi
 - Learned the importance of **teamwork, patience, and adaptability** when working with new development platforms.
 
 Overall, although we faced many challenges as first-time users of RunPod and Replit, the experience helped us develop a better understanding of cloud-based AI deployment and strengthened our confidence in learning and applying new technologies.
+
+
+
+## Future Improvements
+
+Our team plans to continuously improve the KnZ AI Career Guidance System by introducing new features that enhance user engagement, motivation, and the overall user experience.
+
+- **Achievement and Reward System:** Introduce a gamification system where users can earn achievement badges and points by completing activities such as career assessments, resume analysis, and career development tasks.
+
+- **Points-to-Token Redemption:** Integrate the achievement system with our pricing model, allowing users to redeem accumulated points for tokens. For example, users who earn **100 points** can exchange them for tokens to access selected AI-powered features
