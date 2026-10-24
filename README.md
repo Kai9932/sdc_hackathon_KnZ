@@ -25,7 +25,7 @@ is an AI-powered career intelligence and psychological career counselling platfo
 | Live Demo | [https://kn-z-2.replit.app](https://kn-z-2.replit.app) |
 | RunPod Endpoint | [https://api.runpod.ai/v2/your-endpoint-id](https://api.runpod.ai/v2/your-endpoint-id) |
 | Slide Deck | [Google Slides presentation](https://docs.google.com/presentation/d/1Lo44FWxnSBqrD3SAJnhQveEWhVN7jXu3/edit?usp=sharing&ouid=103189924867479152597&rtpof=true&sd=true) |
-| Demo Video | [https://example.com/demo-video](https://example.com/demo-video) |
+| Demo Video | [https://youtu.be/J0ueaD0c3So](https://youtu.be/J0ueaD0c3So) |
 
 
 
