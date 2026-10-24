@@ -72,9 +72,7 @@ Our team used **Replit** to develop, manage, and deploy our KnZ AI Career Guidan
 - **Secrets Management:** Sensitive information, such as API keys and credentials, is securely stored in **Replit Secrets** instead of being exposed in the source code.
 - **Hosting and Deployment:** We used Replit's **Publish** feature to deploy our application, making it publicly accessible without requiring a local computer to run.
 
-**Proof of Use (POU)**: View the Replit Proof of Use PDF
-
-
+**Document:** [SDC2026 K&Z — Replit Proof of Use (PDF)](https://github.com/Kai9932/sdc_hackathon_KnZ/blob/main/submission/SDC2026_K%26Z_Replit_POU.pdf)
 
 ## How We Use RunPod
 
