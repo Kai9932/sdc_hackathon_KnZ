@@ -160,3 +160,7 @@ Our team plans to continuously improve the KnZ AI Career Guidance System by intr
 - [x] Submission files renamed with your team name (replace `TeamName`)
 - [x] "How to Run" steps verified
 - [x] No API keys or secrets committed to the repository
+
+
+##License
+This project is licensed under the Apache License 2.0.
