@@ -23,7 +23,7 @@ is an AI-powered career intelligence and psychological career counselling platfo
 | GitHub Repository | [https://github.com/Kai9932/KnZ-SDC](https://github.com/Kai9932/KnZ-SDC) |
 | Replit Project | [https://replit.com/@chongwenkai0/KnZ-2](https://replit.com/@chongwenkai0/KnZ-2) |
 | Live Demo | [https://kn-z-2.replit.app](https://kn-z-2.replit.app) |
-| RunPod Endpoint | [https://api.runpod.ai/v2/your-endpoint-id](https://api.runpod.ai/v2/your-endpoint-id) |
+| RunPod Endpoint | [https://api.runpod.ai/v2/n309n717vpox3x](https://api.runpod.ai/v2/n309n717vpox3x) |
 | Slide Deck | [Google Slides presentation](https://docs.google.com/presentation/d/1Lo44FWxnSBqrD3SAJnhQveEWhVN7jXu3/edit?usp=sharing&ouid=103189924867479152597&rtpof=true&sd=true) |
 | Demo Video | [https://youtu.be/J0ueaD0c3So](https://youtu.be/J0ueaD0c3So) |
 
