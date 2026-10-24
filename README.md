@@ -162,5 +162,6 @@ Our team plans to continuously improve the KnZ AI Career Guidance System by intr
 - [x] No API keys or secrets committed to the repository
 
 
-##License
+## License
+
 This project is licensed under the Apache License 2.0.
