@@ -17,9 +17,10 @@ is an AI-powered career intelligence and psychological career counselling platfo
 
 
 ## Links
+
 | **Resource** | **Link** |
 |---|---|
-| GitHub Repository | [https://github.com/Kai9932/KnZ](https://github.com/Kai9932/KnZ) |
+| GitHub Repository | [https://github.com/Kai9932/KnZ-SDC](https://github.com/Kai9932/KnZ-SDC) |
 | Replit Project | [https://replit.com/@chongwenkai0/KnZ-2](https://replit.com/@chongwenkai0/KnZ-2) |
 | Live Demo | [https://kn-z-2.replit.app](https://kn-z-2.replit.app) |
 | RunPod Endpoint | [https://api.runpod.ai/v2/your-endpoint-id](https://api.runpod.ai/v2/your-endpoint-id) |
